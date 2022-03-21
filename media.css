@@ -1,0 +1,243 @@
+  /* <!-- Section Two Blocks --> */
+  /* Media Screen */
+  @media screen and (max-width: 1024px) {
+    body {
+      margin: 0px 0px 0px 0px;
+    }
+    .header_log {
+      width: 100%;
+      height: 60px;
+    }
+    .conten_black_window h1{
+      font-size: 18px;
+    }
+    
+    .conten_black_window p{
+      font-size: 11px;
+    }
+    .conten_black_window button {
+      width: 190px;
+      height: 40px;
+    }
+  }
+  /* <!-- Section Two Blocks --> */
+  /* Media Screen */
+  @media screen and (max-width: 768px) {
+    body {
+      margin: 0px 0px 0px 0px;
+    }
+    .header_log {
+      width: 100%;
+      height: 60px;
+    }
+    .header_log img {
+      width: 105px;
+      height: 20px;
+      margin: 0 auto;
+    }
+  
+    .philip_martin {
+      width: 390px;
+      height: 345px;
+    }
+    .black_window {
+      width: 390px;
+      height: 345px;
+      background-color: black;
+      flex-direction: column;
+    }
+    .text_time h3 {
+      font-size: 10px;
+      padding-right: 12px;
+      margin-top: 50px;
+    }
+    .conten_black_window {
+      width: 300px;
+      height: 320px;
+      padding-left: 15px;
+    }
+    .conten_black_window button {
+      width: 190px;
+      height: 40px;
+    }
+  
+    .text_content_vero h1 {
+      font-size: 15px;
+    }
+    .text_paragaf p {
+      font-size: 10px;
+    }
+  }
+
+/* <!-- Section Two Blocks --> */
+/* Media Screen */
+@media screen and (max-width: 320px) {
+    body {
+      margin: 0px 0px 0px 0px;
+    }
+    .header_log {
+      width: 100%;
+      height: 60px;
+    }
+    .header_log img {
+      width: 105px;
+      height: 20px;
+      margin: 0 auto;
+    }
+    .section_img_philip_and_glazz {
+      flex-direction: column;
+    }
+  
+    .philip_martin {
+      width: 322px;
+      height: 250px;
+    }
+    .black_window {
+      width: 322px;
+      height: 250px;
+      background-color: black;
+      flex-direction: column;
+    }
+    .text_time h3 {
+      font-size: 11px;
+      padding-right: 12px;
+      margin-top: 16px;
+    }
+    .conten_black_window {
+      width: 300px;
+      height: 320px;
+      padding-left: 15px;
+    }
+    .conten_black_window button {
+      width: 180px;
+      height: 40px;
+      margin: 30px 0px;
+    }
+  
+    .text_content_vero h1 {
+      font-size: 12px;
+      font-weight: bold;
+      line-height: 26px;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 1);
+      font-family: "Montserrat";
+      margin-top: -40px;
+    }
+    .text_paragaf {
+      width: 300px;
+      height: 42px;
+      margin-top: 30px;
+    }
+    .text_paragaf p {
+      font-size: 10px;
+      font-weight: 300;
+      line-height: 15px;
+      color: rgba(255, 255, 255, 1);
+      font-family: "Montserrat";
+      margin-top: -15px;
+    }
+  }
+
+
+   /* <!-- Section-2 --> */
+  /* Media Screen */
+  @media screen and (max-width: 768px) {
+    .container_section {
+      margin-left: -37px;
+    }
+    .container img {
+      width: 300px;
+      height: 195px;
+    }
+    .text_life {
+      width: 300px;
+    }
+    .container_blocks h1 {
+      font-size: 18px;
+      line-height: 26px;
+    }
+    .container_blocks p {
+      font-size: 12px;
+      line-height: 20px;
+    }
+  }
+  
+
+  /* <!-- Section-2 --> */
+/* Media Screen */
+@media screen and (max-width: 320px) {
+    body {
+        margin: 0px 0px 0px 0px;
+      }
+    .container_blocks {
+      flex-direction: column;
+    }
+    .container_section {
+      margin: 0px;
+      margin-left: -37px;
+    }
+    .container img {
+      width: 300px;
+      height: 195px;
+    }
+    .text_life {
+      width: 300px;
+    }
+    .container_blocks h1 {
+      font-size: 18px;
+      line-height: 26px;
+    }
+    .container_blocks p {
+      font-size: 12px;
+      line-height: 20px;
+    }
+  }
+  
+ 
+  
+ /* <!-- SECTION TWO --> */
+  /* SECTION TWO */
+  @media screen and (max-width: 768px) {
+    .container_section_two {
+      margin: 0 auto;
+      margin-left: -25px;
+    }
+    .container_two img {
+      width: 200px;
+      height: 145px;
+    }
+    .text_life_two h6{
+      font-size: 9px;
+    }
+    .container_two h1 {
+      font-size: 16px;
+      line-height: 20px;
+    }
+  }
+  
+/* <!-- SECTION TWO --> */
+/* SECTION TWO */
+@media screen and (max-width: 320px) {
+    body {
+        margin: 0px 0px 0px 0px;
+      }
+    .container_blocks_two {
+      flex-direction: column;
+    }
+    .container_section_two {
+      margin: 0px;
+      margin-left: -30px;
+    }
+    .container_two img {
+      width: 300px;
+      height: 195px;
+    }
+    .text_life_two {
+      width: 300px;
+    }
+    .container_two h1 {
+      font-size: 15px;
+      line-height: 26px;
+    }
+  }
+ 
